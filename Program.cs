@@ -18,7 +18,7 @@ namespace GazNNBot
 {
     public static class Bot
     {
-        public static readonly TelegramBotClient Api = new TelegramBotClient("598668740:AAHZKKLeh_vb1cjyLtpq2l5RvhsOJNUBI8A");
+        public static readonly TelegramBotClient Api = new TelegramBotClient("API KEY");
     }
 
     public static class Program
